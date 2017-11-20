@@ -1,4 +1,5 @@
 function Product() {
 	this.name = '';
-	this.price = '';	
+	this.price = '';
+	this.count = '';
 }
